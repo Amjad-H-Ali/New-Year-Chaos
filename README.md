@@ -33,3 +33,7 @@
 ###### For 60% score 1 ≤ _n_ ≤ 10 <sup>3</sup> 
 
 ###### For 100% score 1 ≤ _n_ ≤ 10 <sup>5</sup>
+
+##### Output Format
+
+###### Print an integer denoting the minimum number of bribes needed to get the queue into its final state. Print Too chaotic if the state is invalid, i.e. it requires a person to have bribed more than 2 people.
