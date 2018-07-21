@@ -13,3 +13,11 @@
 ###### minimumBribes has the following parameter(s):
 
 ###### • q: an array of integers
+
+##### Input Format
+
+###### The first line contains an integer _t_, the number of test cases.
+
+###### Each of the next _t_ pairs of lines are as follows: 
+###### - The first line contains an integer _t_, the number of people in the queue 
+###### - The second line has _n_ space-separated integers describing the final state of the queue.
