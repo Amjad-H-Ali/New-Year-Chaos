@@ -21,3 +21,9 @@
 ###### Each of the next _t_ pairs of lines are as follows: 
 ###### - The first line contains an integer _t_, the number of people in the queue 
 ###### - The second line has _n_ space-separated integers describing the final state of the queue.
+
+##### Constraints
+
+###### • 1 ≤ _t_ ≤ 10
+
+###### • 1 ≤ _n_ ≤ 10 <sup>5</sup>
