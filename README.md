@@ -27,3 +27,9 @@
 ###### • 1 ≤ _t_ ≤ 10
 
 ###### • 1 ≤ _n_ ≤ 10 <sup>5</sup>
+
+##### Subtasks
+
+###### For 60% score 1 ≤ _n_ ≤ 10 <sup>3</sup> 
+
+###### For 100% score 1 ≤ _n_ ≤ 10 <sup>5</sup>
