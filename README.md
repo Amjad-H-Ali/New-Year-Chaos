@@ -54,3 +54,29 @@
 3
 Too chaotic
 ```
+
+##### Explanation
+
+##### Test Case 1
+
+###### The initial state:
+
+![queue 1](img/queue1.png)
+
+###### After person 5 moves one position ahead by bribing person 4:
+
+![queue 2](img/queue2.png)
+
+###### Now person 5 moves another position ahead by bribing person 3:
+
+![queue 3](img/queue3.png)
+
+###### And person 2 moves one position ahead by bribing person 2:
+
+![queue 4](img/queue4.png)
+
+###### So the final state is 2,1,5,3,4 after three bribing operations.
+
+##### Test Case 2
+
+###### No person can bribe more than two people, so its not possible to achieve the input state.
